@@ -257,7 +257,7 @@ All user data is stored locally using `chrome.storage.local` — nothing goes to
 
 ---
 
-## 🔮 Planned Features (Assignment Roadmap)
+## Features
 
 Built from the Codebasics AI Pro FocusBoard assignments:
 
@@ -266,14 +266,14 @@ Built from the Codebasics AI Pro FocusBoard assignments:
 - [x] Focus Mode (site blocker)
 - [x] Custom wallpaper
 - [x] Daily motivational quote
-- [ ] **Assignment 2:** Daily focus streak counter 🔥
-- [ ] **Assignment 3:** Dark mode / light mode toggle 🌙
-- [ ] **Assignment 4:** Pomodoro timer widget ⏱️
-- [ ] **Assignment 5:** Wallpaper rotation 🖼️
-- [ ] **Assignment 6:** Task categories with colored tags 🏷️
-- [ ] **Assignment 7:** Focus mode schedule (auto-enable) 📅
-- [ ] **Assignment 8:** Daily focus time KPI ⏳
-- [ ] **Assignment 9:** Analytics dashboard 📊
+- [x] Daily focus streak counter 🔥
+- [x] Dark mode / light mode toggle 🌙
+- [X] Pomodoro timer widget ⏱️
+- [X] Wallpaper rotation 🖼️
+- [X] Task categories with colored tags 🏷️
+- [X] Focus mode schedule (auto-enable) 📅
+- [X] Daily focus time KPI ⏳
+- [X] Analytics dashboard 📊
 
 ---
 
